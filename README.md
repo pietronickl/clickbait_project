@@ -3,7 +3,7 @@
 All code for "What makes people click – the linguistic characteristics of clickbait"
 
 ### DATA
-upworthy_toy.csv
+upworthy_toy.csv  
 NYT_toy.csv
 
 *note that these are only toy versions (100 headlines each) of the data used in this project*
