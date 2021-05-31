@@ -20,3 +20,7 @@ upworthy_random_forest.ipynb
 
 ### other
 upworthy_bigrams_20_topics.html  
+
+
+if files don't load, I recommend pasting the link to https://nbviewer.jupyter.org/
+
